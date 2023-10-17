@@ -117,55 +117,43 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Google Ads Search Certification
-          start: 2022
-          end: 2022
-          organization: Google
-          credentialid: 132333892
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Demonstrate your mastery of building and optimizing Google Search campaigns. 
-            Certified users will exhibit the ability to leverage automated solutions like Smart Bidding to 
-            boost campaign performance for specific marketing objectives.
-        - name: Google Analytics for Beginners
-          start: 2022
-          end: 2022
-          organization: Google
-          credentialid: -
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Google Analytics for Beginners shows new users how to create an account, 
-            implement tracking code, and set up data filters. You'll learn how to 
-            navigate the Google Analytics interface and reports, and set up dashboards and shortcuts. 
-            The course will also demonstrate how to analyze basic Audience, Acquisition, 
-            and Behavior reports, and set up goals and campaign tracking.
-
-            - name: Google Analytics Indivifual Qualification
-          start: 2022
-          end: 2022
-          organization: Google
-          credentialid: 132334981
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            The Google Analytics Individual Qualification covers basic and advanced Universal Analytics concepts. 
-            This includes: planning and principles; implementation and data collection; configuration and administration; 
-            conversion and attribution; and reports, metrics, and dimensions.
-
-            - name: Managing Big Data with MySQL
+        - name: CV Builder
           start: 2020
-          end: 2020
-          organization: Duke University
-          credentialid: RWZHGYVFCM6A
-          credentialurl: coursera.org /verify/RWZHGYVFCM6A
-          credentialname: Coursera
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
           details: |
-            The Google Analytics Individual Qualification covers basic and advanced Universal Analytics concepts. 
-            This includes: planning and principles; implementation and data collection; configuration and administration; 
-            conversion and attribution; and reports, metrics, and dimensions.
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
 
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
 
 skills:
     title: Skills &amp; Proficiency
