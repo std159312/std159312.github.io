@@ -7,3 +7,21 @@ education: True # set to False if you want education in main section instead of 
 name: Ioannis Altanopoulos
 tagline: IT Technician
 avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+# Sidebar links
+email: std159312@ac.eap.gr
+phone: -
+timezone: America/Cancun Timezone
+citizenship:
+website: std159312.github.io #do not add http://
+linkedin: ioannis-altanopoulos-5b7427135
+xing: -
+github: STD159312
+telegram: # add your nickname without '@' sign
+gitlab:
+bitbucket:
+twitter: '-'
+stack-overflow: # Number/Username, e.g. 123456/alandoe
+codewars:
+goodreads: # Number-Username, e.g. 123456-alandoe
+pdf: #
