@@ -111,7 +111,21 @@ certifications:
             The course will also demonstrate how to analyze basic Audience, Acquisition,
             and Behavior reports, and set up goals and campaign tracking.        
 
-                    - name: Google Analytics for Beginners
+        - name: Google Analytics for Beginners
+          start: 2022
+          end:   
+          organization: Google
+          credentialid: 
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Google Analytics for Beginners shows new users how to create an account,
+            implement tracking code, and set up data filters. You'll learn how to
+            navigate the Google Analytics interface and reports, and set up dashboards and shortcuts.
+            The course will also demonstrate how to analyze basic Audience, Acquisition,
+            and Behavior reports, and set up goals and campaign tracking.        
+
+            
             
 
       
