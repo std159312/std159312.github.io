@@ -37,10 +37,9 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: First Certificate in English (Lower)
+          level: First Certificate in English
 
-        - idiom: #
-          level: #
+        
 
     interests:
       title: Interests
