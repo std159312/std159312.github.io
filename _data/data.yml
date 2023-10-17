@@ -84,11 +84,11 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
+        - name: Google Ads Search Certification
+          start: 2022
+          end: 2022
+          organization: Google
+          credentialid: 132333892
           credentialurl: www.google.com
           credentialname: Google
           details: |
