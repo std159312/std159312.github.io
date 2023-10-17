@@ -9,12 +9,12 @@ sidebar:
 
     # Profile information
     name: Ioannis Altanopoulos
-    tagline: IT Technicianv
+    tagline: IT Technician
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: std159312@ac.eap.gr
+    phone: 
     timezone: America/Cancun Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
