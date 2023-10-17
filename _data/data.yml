@@ -97,22 +97,21 @@ certifications:
             boost campaign performance for specific marketing objectives.      
 
             
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+        - name: Google Analytics for Beginners
+          start: 2022
+          end:   2022
+          organization: Google
+          credentialid: 
+          credentialurl: www.google.com
+          credentialname: Google
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Google Analytics for Beginners shows new users how to create an account,
+            implement tracking code, and set up data filters. You'll learn how to
+            navigate the Google Analytics interface and reports, and set up dashboards and shortcuts.
+            The course will also demonstrate how to analyze basic Audience, Acquisition,
+            and Behavior reports, and set up goals and campaign tracking.        
+            
+            
 
       
 
