@@ -115,7 +115,7 @@ certifications:
           start: 2022
           end:   
           organization: Google
-          credentialid: 
+          credentialid: -
           credentialurl: www.google.com
           credentialname: Google
           details: |
