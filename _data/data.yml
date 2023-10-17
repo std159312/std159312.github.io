@@ -122,6 +122,17 @@ certifications:
             The Google Analytics Individual Qualification covers basic and advanced Universal Analytics concepts.
             This includes: planning and principles; implementation and data collection; configuration and administration;
             conversion and attribution; and reports, metrics, and dimensions.
+
+        - name: Managing Big Data with MySQL
+          start: 2020
+          end:   
+          organization: Duke University
+          credentialid: RWZHGYVFCM6A
+          credentialurl: coursera.org /verify/RWZHGYVFCM6A
+          credentialname: Coursera
+          details: |
+            
+
            
             
             
