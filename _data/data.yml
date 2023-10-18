@@ -44,7 +44,6 @@ sidebar:
           link:
 
 career-profile:
-    frame: τεστ
     title: Career Profile
     summary: |
       For the last 13 years I am working as an IT technician and Teleconferencing
@@ -168,7 +167,7 @@ skills:
       - name: HTML5 & CSS
         level: 100%
 
-      
+frame:
+    title: Skills &amp; Proficiency
 
-      
 
