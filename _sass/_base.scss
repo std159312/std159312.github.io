@@ -118,7 +118,6 @@ p {
       margin-bottom: 15px;
       &:last-child {
         margin-bottom: 0;
-        background: $smoky-white;
       }
     }
     .meta {
@@ -190,6 +189,7 @@ p {
     overflow: hidden;
     margin-bottom: 2px;
     display: flex;
+    background: $smoky-white;
   }
   .job-title,
   .degree,
