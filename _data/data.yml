@@ -84,13 +84,15 @@ experiences:
         company: Department of Business Administration | University of Patras
 
         details: |
-            *Website designing with Joomla,html,css,php,
-            *Teleconferencing Coordinator,\
-            *Sql Administrator,\
-            *Computer Center Administrator,\
-            *Ticketing System Administrator,\
-            *Web Server Administrator,\
-            *Data Server Administrator,\
+            -Website designing with Joomla,html,css,php,\
+            -Teleconferencing Coordinator,\
+            -Sql Administrator,\
+            -Computer Center Administrator,\
+            -Ticketing System Administrator,\
+            -Web Server Administrator,\
+            -Data Server Administrator,\
+            -Web Server Administrator,\
+            -Data Server Administrator,
 
       - role: Technician of Computing Systems
         time: 2004-2006
