@@ -115,7 +115,6 @@ p {
   }
   .education-container {
     .item {
-      background: #ff0000;
       margin-bottom: 15px;
       &:last-child {
         margin-bottom: 0;
@@ -177,7 +176,7 @@ p {
   .section {
     margin-bottom: 60px;
   }
-   
+
   .experiences-section,
   .educations-section {
     .item {
@@ -264,11 +263,11 @@ p {
     margin-bottom: 12px;
   }
   .level-bar {
-    height: 12px;
+    height: 14px;
     background: $smoky-white;
   }
   .level-bar-inner {
-    height: 12px;
+    height: 14px;
     background: lighten($theme-color, 15%);
   }
 }
