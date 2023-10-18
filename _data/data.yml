@@ -64,7 +64,6 @@ education:
         university: Hellenic Open University
         time: 2021
         details: |
-        hr: 50
 
 experiences:
     title: Experiences
@@ -146,7 +145,7 @@ certifications:
           credentialname: Coursera
           details: |         
 
-           
+           theme: frame
             
             
 
