@@ -115,6 +115,7 @@ p {
   }
   .education-container {
     .item {
+      background: $red;
       margin-bottom: 15px;
       &:last-child {
         margin-bottom: 0;
@@ -180,7 +181,6 @@ p {
   .experiences-section,
   .educations-section {
     .item {
- background: $red;
       margin-bottom: 30px;
     }
   }
