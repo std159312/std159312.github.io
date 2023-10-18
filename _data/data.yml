@@ -45,12 +45,13 @@ sidebar:
 
 career-profile:
     title: Career Profile
+    - - -
     summary: |
       For the last 13 years I am working as an IT technician and Teleconferencing
       Coordinator at the Department of Business Administration of the University of Patras.
       My interests are related to the design and implementation of dynamic websites, computer
       networks as well as the solution of technical problems on Computer Systems.
-- - -
+
       
 education:
     title: Education
@@ -64,6 +65,7 @@ education:
         university: Hellenic Open University
         time: 2021
         details: |
+        
 
 experiences:
     title: Experiences
@@ -145,6 +147,7 @@ certifications:
           credentialname: Coursera
           details: |         
 
+           
             
             
 
