@@ -263,12 +263,12 @@ p {
     margin-bottom: 12px;
   }
   .level-bar {
-    height: 14px;
+    height: 12px;
     background: $smoky-white;
   }
   .level-bar-inner {
-    height: 14px;
-    background: lighten($theme-color, 15%);
+    height: 12px;
+    background: lighten($theme-color, 50%);
   }
 }
 
