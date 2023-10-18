@@ -170,6 +170,8 @@ skills:
         level: 100%
 
       
-
+dimensions:
+  width: "3 metres"
+  height: "8 metres"
       
 
