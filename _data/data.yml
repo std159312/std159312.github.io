@@ -42,8 +42,9 @@ sidebar:
 
         - item: 
           link:
-frame:
+
 career-profile:
+    frame:
     title: Career Profile
     summary: |
       For the last 13 years I am working as an IT technician and Teleconferencing
