@@ -118,6 +118,7 @@ p {
       margin-bottom: 15px;
       &:last-child {
         margin-bottom: 0;
+        background: $smoky-white;
       }
     }
     .meta {
@@ -175,7 +176,6 @@ p {
   }
   .section {
     margin-bottom: 60px;
-    background: $smoky-white;
   }
 
   .experiences-section,
@@ -200,7 +200,6 @@ p {
     margin-bottom: 0;
     font-weight: 500;
     flex: 75%;
-    background: $smoky-white;
   }
   .time,
   .cert-url {
