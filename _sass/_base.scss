@@ -183,13 +183,16 @@ p {
       margin-bottom: 30px;
     }
   }
+  .upper-row {
+    background: $smoky-white;
+  }
+
   .upper-row,
   .second-upper-row {
     position: relative;
     overflow: hidden;
     margin-bottom: 2px;
     display: flex;
-    background: $smoky-white;
   }
   .job-title,
   .degree,
