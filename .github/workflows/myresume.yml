@@ -1,9 +1,7 @@
-name: Convert HTML to LaTeX and Create PDF
-
 on:
   push:
     branches:
-      - main  # Εδώ ορίζετε το κλαδί που θα ενεργοποιεί το workflow.
+      - main  # 
 
 jobs:
   convert-html-to-latex:
@@ -15,8 +13,8 @@ jobs:
 
     - name: Set up LaTeX
       run: |
-        
-        
+        # 
+        # 
         sudo apt-get update
         sudo apt-get install texlive-latex-base
         sudo apt-get install texlive-fonts-recommended
@@ -24,13 +22,14 @@ jobs:
 
     - name: Convert HTML to LaTeX
       run: |
-        
-        
+        # 
+        # 
         pandoc -f html -t latex input.html -o output.tex
 
     - name: Create PDF
-      run: |       
-        
+      run: |
+        # 
+        # 
         pdflatex output.tex
 
     - name: Upload PDF
