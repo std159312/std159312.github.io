@@ -1,0 +1,41 @@
+name: Convert HTML to LaTeX and Create PDF
+
+on:
+  push:
+    branches:
+      - main  # Εδώ ορίζετε το κλαδί που θα ενεργοποιεί το workflow.
+
+jobs:
+  convert-html-to-latex:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+
+    - name: Set up LaTeX
+      run: |
+        # Εδώ μπορείτε να εγκαταστήσετε τα πακέτα LaTeX που χρειάζεστε.
+        # Παράδειγμα:
+        sudo apt-get update
+        sudo apt-get install texlive-latex-base
+        sudo apt-get install texlive-fonts-recommended
+        sudo apt-get install texlive-fonts-extra
+
+    - name: Convert HTML to LaTeX
+      run: |
+        # Εδώ μπορείτε να χρησιμοποιήσετε το πρόγραμμα που μετατρέπει το HTML σε LaTeX.
+        # Παράδειγμα:
+        pandoc -f html -t latex input.html -o output.tex
+
+    - name: Create PDF
+      run: |
+        # Εδώ μπορείτε να δημιουργήσετε το PDF από το LaTeX.
+        # Παράδειγμα:
+        pdflatex output.tex
+
+    - name: Upload PDF
+      uses: actions/upload-artifact@v2
+      with:
+        name: myresume
+        path: output.pdf
